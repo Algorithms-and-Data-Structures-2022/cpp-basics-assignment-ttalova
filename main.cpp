@@ -5,9 +5,10 @@
 using namespace std;
 using namespace assignment;
 
+
 int main() {
 
-  cout << "Write your code here...\n";
+  cout << check_bit(8, 3);
 
   return 0;
 }
